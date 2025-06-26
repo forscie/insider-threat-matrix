@@ -1,4 +1,4 @@
-# FORSCIE® Insider Threat Matrix
+# Forscie® Insider Threat Matrix
 
 The [Insider Threat Matrix™ (ITM)](https://insiderthreatmatrix.org) is designed to help investigators map the trajectory of an insider incident—both before and after an infringement. It provides a structured approach to categorizing evidence and articulating the **motive**, **means**, and **methods** used by subjects of insider investigations.
 
