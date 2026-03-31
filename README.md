@@ -6,9 +6,11 @@ The ITM unifies diverse concepts and terminology for digital investigators, offe
 
 The Insider Threat Matrix™ is a living framework, continuously evolving as new insights and research emerge. If you believe you can contribute to its development, please submit your input [here](https://insiderthreatmatrix.org/contributors).
 
+
 ## Usage
 
 This repository contains a single JSON file representing the complete Insider Threat Matrix™.
+
 
 ## Sponsors
 
