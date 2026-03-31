@@ -9,3 +9,9 @@ The Insider Threat Matrix™ is a living framework, continuously evolving as new
 ## Usage
 
 This repository contains a single JSON file representing the complete Insider Threat Matrix™.
+
+## Sponsors
+
+The Insider Threat Matrix™ (ITM) is an open, freely accessible investigative framework that provides a structured, practitioner-led approach to insider threat investigation and response. Supported by sponsoring organizations, its ongoing development, curation, and infrastructure are sustained while remaining independent of commercial influence. Governance and stewardship are maintained by Forscie, which ensures the framework adheres to established investigative standards and remains vendor-neutral. Sponsorship does not grant editorial control or influence over content; instead, it enables the continued evolution and public availability of the ITM without shaping its substance or direction.
+
+More information and contact details can be found here: [https://insiderthreatmatrix.org/sponsors](https://insiderthreatmatrix.org/sponsors)
