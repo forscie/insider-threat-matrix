@@ -21,3 +21,14 @@ More information and contact details can be found here: [https://insiderthreatma
 ### Current Sponsors
 
 Above Security - https://www.above.security/
+
+## Licence, Notices, and Trademark Use
+
+This repository is licensed under the Apache License, Version 2.0. See
+[LICENSE](./LICENSE) for the full licence terms.
+
+Attribution and third-party notices are set out in [NOTICE](./NOTICE).
+
+The Insider Threat Matrix™ name and associated brand identifiers are
+owned by Forscie Limited. Trademark and brand usage guidance is set out
+in [TRADEMARKS.md](./TRADEMARKS.md).
