@@ -31,4 +31,4 @@ Attribution and third-party notices are set out in [NOTICE](./NOTICE).
 
 The Insider Threat Matrix™ name and associated brand identifiers are
 owned by Forscie Limited. Trademark and brand usage guidance is set out
-in [TRADEMARKS.md](./TRADEMARKS.md).
+in [TRADEMARKS](./TRADEMARKS.md).
