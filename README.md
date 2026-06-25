@@ -21,6 +21,7 @@ More information and contact details can be found here: [https://insiderthreatma
 ### Current Sponsors
 
 Above Security - https://www.above.security/
+
 Red Vector - https://www.redvector.ai/
 
 ## Licence, Notices, and Trademark Use
