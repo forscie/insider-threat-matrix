@@ -20,9 +20,11 @@ More information and contact details can be found here: [https://insiderthreatma
 
 ### Current Sponsors
 
-Above Security - https://www.above.security/
+Above Security - https://www.above.security
 
-Red Vector - https://www.redvector.ai/
+Red Vector - https://www.redvector.ai
+
+PixieBrix - https://www.pixiebrix.com
 
 ## Licence, Notices, and Trademark Use
 
