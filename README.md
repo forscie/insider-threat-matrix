@@ -31,7 +31,7 @@ PixieBrix - https://www.pixiebrix.com
 This repository is licensed under the Apache License, Version 2.0. See
 [LICENSE](./LICENSE) for the full licence terms.
 
-Attribution and third-party notices are set out in [NOTICE](./NOTICE).
+Attribution and third-party notices are set out in [NOTICE](./NOTICE.txt).
 
 The Insider Threat Matrix™ name and associated brand identifiers are
 owned by Forscie Limited. Trademark and brand usage guidance is set out
