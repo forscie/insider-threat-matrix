@@ -1,10 +1,20 @@
-# Forscie® Insider Threat Matrix™
+# Forscie® Human Insider Threat Matrix™
 
-The [Insider Threat Matrix™ (ITM)](https://insiderthreatmatrix.org) is designed to help investigators map the trajectory of an insider incident, both before and after an infringement. It provides a structured approach to categorizing evidence and articulating the **motive**, **means**, and **methods** used by subjects of insider investigations.
+The [Human Insider Threat Matrix™ (HITM)](https://insiderthreatmatrix.org) is designed to help investigators map the trajectory of an insider incident, both before and after an infringement. It provides a structured approach to categorizing evidence and articulating the **motive**, **means**, and **methods** used by subjects of insider investigations.
 
-The ITM unifies diverse concepts and terminology for digital investigators, offering a common language that bridges people, processes, and technology. Its goal is to improve how we address the growing challenge of computer-enabled insider threats.
+The HITM unifies diverse concepts and terminology for digital investigators, offering a common language that bridges people, processes, and technology. Its goal is to improve how we address the growing challenge of computer-enabled insider threats.
 
-The Insider Threat Matrix™ is a living framework, continuously evolving as new insights and research emerge. If you believe you can contribute to its development, please submit your input [here](https://insiderthreatmatrix.org/contributors).
+The Human Insider Threat Matrix™ is a living framework, continuously evolving as new insights and research emerge. If you believe you can contribute to its development, please submit your input [here](https://insiderthreatmatrix.org/contributors).
+
+
+## Human & Synthetic Insider Threat Matrix™
+
+The Insider Threat Matrix™ is divided into two, **Human** & **Synthetic**. Each are distinct, but use a common structure: Articles, Sections, Sub-sections, Preventions & Detections. They are individually versioned in two seperate repositories.
+
+| Web App | Repository |
+| -------- | ------- |
+| [Human Insider Threat Matrix™](https://www.insiderthreatmatrix.org/) | [https://github.com/forscie/insider-threat-matrix](https://github.com/forscie/insider-threat-matrix) |
+| [Synthetic Insider Threat Matrix™](https://www.insiderthreatmatrix.org/synthetic) | [https://github.com/forscie/synthetic-insider-threat-matrix](https://github.com/forscie/synthetic-insider-threat-matrix) |
 
 
 ## Usage
@@ -20,11 +30,9 @@ More information and contact details can be found here: [https://insiderthreatma
 
 ### Current Sponsors
 
-Above Security - https://www.above.security
-
-Red Vector - https://www.redvector.ai
-
-PixieBrix - https://www.pixiebrix.com
+- Above Security - https://www.above.security
+- Red Vector - https://www.redvector.ai
+- PixieBrix - https://www.pixiebrix.com
 
 ## Licence, Notices, and Trademark Use
 
