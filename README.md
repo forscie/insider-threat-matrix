@@ -33,6 +33,7 @@ More information and contact details can be found here: [https://insiderthreatma
 - Above Security - https://www.above.security
 - Red Vector - https://www.redvector.ai
 - PixieBrix - https://www.pixiebrix.com
+- Proofpoint - https://www.proofpoint.com/us/products/insider-threat-management
 
 ## Licence, Notices, and Trademark Use
 
