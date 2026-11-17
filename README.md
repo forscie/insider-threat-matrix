@@ -34,6 +34,7 @@ More information and contact details can be found here: [https://insiderthreatma
 - Red Vector - https://www.redvector.ai
 - PixieBrix - https://www.pixiebrix.com
 - Proofpoint - https://www.proofpoint.com/us/products/insider-threat-management
+- Predcit Security - https://predict.security/
 
 ## Licence, Notices, and Trademark Use
 
